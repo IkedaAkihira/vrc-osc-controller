@@ -18,17 +18,17 @@ OSCを有効化するためにはまず、VRChatのOpen-Betaに参加する必�
 2. ベータをクリックし、ベータへの参加でOpen-Betaを選択します。
 
 これでOpen-Betaへの参加ができました。  
-画像のように、選択したベータがopen-betaとなっていればOKです。
+画像のように、選択したベータがopen-betaとなっていればOKです。  
 ![alt text](docs/images/open-beta.png)
 
 ### VRChatでOSCを有効化する
 1. VRChatを起動します。
-2. Expression Menuを開き、Optionを選択します。
+2. Expression Menuを開き、Optionを選択します。  
 ![alt text](docs/images/option.png)
-3. OSCを選択します。
+3. OSCを選択します。  
 ![alt text](docs/images/osc.png)
 4. Enabledを選択し、OSCを有効化します。
-![alt text](docs/images/enable.png)
+![alt text](docs/images/enable.png)  
 `vrc_osc_controller.exe`を実行します。
 
 これで、OSCの有効化ができました。

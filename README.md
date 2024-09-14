@@ -27,9 +27,8 @@ OSCを有効化するためにはまず、VRChatのOpen-Betaに参加する必�
 ![alt text](docs/images/option.png)
 3. OSCを選択します。  
 ![alt text](docs/images/osc.png)
-4. Enabledを選択し、OSCを有効化します。
+4. Enabledを選択し、OSCを有効化します。  
 ![alt text](docs/images/enable.png)  
-`vrc_osc_controller.exe`を実行します。
 
 これで、OSCの有効化ができました。
 
@@ -44,7 +43,7 @@ OSCを有効化するためにはまず、VRChatのOpen-Betaに参加する必�
 2. ipconfigと入力しエンターキーを押す
 3. 無線を使ってる方は`Wireless LAN Adapter ○○`, 有線を使ってる方は`イーサネットアダプター ○○`と書いているところのIPv4アドレスを確認します。`192.168.x.x`とか`172.16.x.x`とかそんな感じの数字がアドレスです。
 ### ソフトの起動
-1. vrc_osc_controller.exeを実行します。
+1. `vrc_osc_controller.exe`を実行します。
 2. IPアドレスを聞かれるので、さっき確認したアドレスを入力し、エンターキーを押します。
 3. 起動が完了します。
 4. 閉じるときは普通のアプリを閉じるのと同じ要領でXボタンを押します。
